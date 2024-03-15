@@ -50,4 +50,7 @@ This file is to remind myself of what is in the repository , how does it work , 
 -  Build from a wireframe
 - mid year portifilo
 -  challange
--  
+-  Lab 1 into to HTML
+-  Lab 2 Images
+-  Lab 3 Hyperlinks
+-  Lab 4 Tables & colors
