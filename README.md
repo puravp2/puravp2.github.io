@@ -1,1 +1,53 @@
 # puravp2.github.io
+This file is to remind myself of what is in the repository , how does it work , and what needs to be done :
+- List of all my Replits projects / assigments
+-  divisble by 3
+-  Silly sentaces
+-  Avator
+-  bounce ball
+-  pong game
+-  silly sentances
+-  room area
+-  chatbot
+-  busniess card
+-  My portifolio
+-  4.1 iteration investigate
+-  4.2 interation predict and run
+-  4.3 Iteration modify
+-  4.4 Iteration Make
+-  3.10 conditionals predict and run
+-  3.11 conditionals investiagte
+-  3.12 conditionals modify
+-  3.13 conditionals make
+-  2.0 calculation predict
+-  2.1 calculation modify
+-  2.2 calculation make
+-  1.0 output - predict and run
+-  1.1 output - modfiy
+-  1.2 output - make
+-  6.1 p5 generate colors Dots
+-  6.3 cmu graphics
+-  spring capstone project
+-  Project teacher apprrecation
+-  Halloween card
+-  Halloween sotry card
+-  congressional app challange
+-  make a robot
+-  make a vator
+-  make a ringtone
+-  make a beat
+-  tella sotry
+-  make a recipe
+-  code .org unit 1 review
+-  code .org unit 2 review
+-  code.org unit 3 review
+-  code.org unit 4 review
+-  Final project Goast school
+-  code.org unit3 review
+-  code.org unit 6 review
+-  code.org unit 8 review
+-  learners poster
+-  Build from a wireframe
+- mid year portifilo
+-  challange
+-  
